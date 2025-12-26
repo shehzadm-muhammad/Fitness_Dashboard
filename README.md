@@ -8,7 +8,7 @@ track progress, and visualise fitness data through interactive charts.
 
 ## 🎥 Video Walkthrough
 ▶️ Watch a short demo of the application:  
-(LINK TO VIDEO)
+[(LINK TO VIDEO)](https://youtu.be/c6Ci-ETotXc)
 
 ## ✨ Features
 - Secure user authentication (Supabase)
