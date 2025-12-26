@@ -1,22 +1,37 @@
 # Fitness Dashboard – React & Supabase
 
-A web-based fitness dashboard that allows users to track health-related data such as BMI, manage profiles, and visualise progress through charts.
+A full-stack fitness tracking web application that allows users to log workouts,
+track progress, and visualise fitness data through interactive charts.
 
-## Features
-- User authentication using Supabase
-- User profile with avatar upload
-- BMI logging and history
-- Interactive BMI chart
+## 🔗 Live Demo
+🌍 https://v0-fitness-dashboard-topaz.vercel.app/dashboard
+
+## 🎥 Video Walkthrough
+▶️ Watch a short demo of the application:  
+(LINK TO VIDEO)
+
+## ✨ Features
+- Secure user authentication (Supabase)
+- Workout logging (push-ups, running, weights)
+- BMI & weight tracking
+- Interactive charts (Chart.js)
+- User profile & avatar upload
 - Responsive dashboard UI
 
-## Tech Stack
+## 🛠 Tech Stack
 - React (Vite)
 - JavaScript
-- Supabase (Auth & Database)
+- Supabase (Auth & PostgreSQL)
+- Chart.js
 - Tailwind CSS
+- Vercel (Deployment)
 
-## What I Learned
-- Building component-based UIs with React
-- Handling authentication and user data
-- Integrating a backend service (Supabase)
-- Managing state and user sessions
+## 📄 Academic Context
+This project was completed as part of a Software Engineering module and followed
+Agile (Scrum) methodology from requirements to deployment.
+
+## 📚 What I Learned
+- Building full-stack applications
+- Handling authentication & user data
+- Working with real-time databases
+- Deploying applications to production
