@@ -5,6 +5,8 @@ track progress, and visualise fitness data through interactive charts.
 
 ## 🔗 Live Demo
 🌍 https://v0-fitness-dashboard-topaz.vercel.app/dashboard
+⚠️ The application was previously deployed using Vercel.
+As this project uses free-tier services, the live deployment may be inactive.
 
 ## 🎥 Video Walkthrough
 ▶️ Watch a short demo of the application:  
